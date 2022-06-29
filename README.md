@@ -1,3 +1,3 @@
-# Modul-Belajar-Sistem-Kontrol
-
-Media belajar bidang minat sistem kontrol [Dalam proses pengembangan]
+# SSEM-1 (Smart System Education Module - 1)
+<p>Membahas terkait bidang minat sistem kontrol.</p> 
+<br>[Dalam proses pengembangan]......
