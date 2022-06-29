@@ -1,3 +1,3 @@
-# SSEM-1 (Smart System Education Module - 1)
-<p>Membahas terkait bidang minat sistem kontrol.</p> 
+# SSEM-1
+Membahas terkait bidang minat sistem kontrol.
 <br>[Dalam proses pengembangan]......
